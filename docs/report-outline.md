@@ -1,3 +1,11 @@
+"Thành viên nhóm 1:
+1. Nguyễn Tấn Lộc
+2. Cù Bảo Tiệp
+3. Nguyễn Phan Hải Âu
+4. Trần Hữu Thành Đạt
+5. Nguyễn Hữu Tuấn
+
+
 " PHẦN 1: TỔNG QUAN VỀ GIAO THỨC UDP
 1.1. Khái niệm
 UDP (User Datagram Protocol) là một giao thức cốt lõi trong bộ giao thức Internet (IP). Khác với TCP chú trọng vào sự tin cậy, UDP là một giao thức không kết nối (connectionless). Nó hoạt động theo cơ chế "Fire and Forget" (Gửi và Quên), nghĩa là gửi gói tin đi mà không cần thiết lập kết nối trước và không đảm bảo gói tin sẽ đến nơi.
